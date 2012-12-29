@@ -3,6 +3,7 @@ import java.io.*;
 
 public class MIMEBase64 {
   /*
+   * Ovo je nas kod....
     Base64 uses a 65 character subset of US-ASCII,
     allowing 6 bits for each character so the character
     "m" with a Base64 value of 38, when represented
